@@ -17,6 +17,10 @@ public class TestRunnerClass {
 		
 		JVMReport.generateJvmReport(System.getProperty("user.dir", "\\src\\test\\resources\\Reports\\output.json"));
 		System.out.println("Work done by Dev");
+		System.out.println("work by perf");
+
+		
+
 	}
 	
 }
