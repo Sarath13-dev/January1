@@ -1,0 +1,285 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 12,
+        "name": "Validating the Facebook with correct Username and password",
+        "description": "",
+        "id": "validating-the-facebook;validating-the-facebook-with-correct-username-and-password;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8480677148,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User should launch the facebook url",
+            "match": {
+              "location": "StepDefinition.user_should_launch_the_facebook_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 285210214,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User should enter the \"ramsss\" and \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"ramsss\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"123456\"",
+                  "offset": 35
+                }
+              ],
+              "location": "StepDefinition.user_should_enter_the_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 90297495,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User should click the login button",
+            "match": {
+              "location": "StepDefinition.user_should_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 185594726,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User validates the home page",
+            "match": {
+              "location": "StepDefinition.user_validates_the_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Validating the Facebook with correct Username and password",
+        "description": "",
+        "id": "validating-the-facebook;validating-the-facebook-with-correct-username-and-password;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6999354956,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User should launch the facebook url",
+            "match": {
+              "location": "StepDefinition.user_should_launch_the_facebook_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 249434110,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User should enter the \"oiuytr\" and \"435678\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"oiuytr\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"435678\"",
+                  "offset": 35
+                }
+              ],
+              "location": "StepDefinition.user_should_enter_the_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 94193420,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User should click the login button",
+            "match": {
+              "location": "StepDefinition.user_should_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 172858050,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User validates the home page",
+            "match": {
+              "location": "StepDefinition.user_validates_the_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Validating the Facebook with correct Username and password",
+        "description": "",
+        "id": "validating-the-facebook;validating-the-facebook-with-correct-username-and-password;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7080367814,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User should launch the facebook url",
+            "match": {
+              "location": "StepDefinition.user_should_launch_the_facebook_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 228649517,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User should enter the \"ewrteyr\" and \"456758\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"ewrteyr\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"456758\"",
+                  "offset": 36
+                }
+              ],
+              "location": "StepDefinition.user_should_enter_the_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 93220978,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User should click the login button",
+            "match": {
+              "location": "StepDefinition.user_should_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 182377714,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User validates the home page",
+            "match": {
+              "location": "StepDefinition.user_validates_the_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "Validating the Facebook with correct Username and password",
+        "description": "",
+        "id": "validating-the-facebook;validating-the-facebook-with-correct-username-and-password;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6684312078,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User should launch the facebook url",
+            "match": {
+              "location": "StepDefinition.user_should_launch_the_facebook_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 245461725,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User should enter the \"mnbvcnbv\" and \"567890\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"mnbvcnbv\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"567890\"",
+                  "offset": 37
+                }
+              ],
+              "location": "StepDefinition.user_should_enter_the_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 95830406,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User should click the login button",
+            "match": {
+              "location": "StepDefinition.user_should_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 141157477,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User validates the home page",
+            "match": {
+              "location": "StepDefinition.user_validates_the_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Validating the Facebook",
+    "description": "",
+    "id": "validating-the-facebook",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Login.feature",
+    "tags": []
+  }
+]
